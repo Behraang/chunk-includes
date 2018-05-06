@@ -1,7 +1,8 @@
 {
     "name": "chunk-includes",
-    "version": "0.0.1",
-    "description": "Shows what is going into each chunk",
+    "version": "0.0.2",
+    "description":
+        "A simple webpack plugin that shows what is going into each chunk on the console",
     "main": "src/index.js",
     "author": "Behrang Yarahmadi <behrang.yarahmadi@trivago.com>",
     "repository": {
