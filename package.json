@@ -1,0 +1,12 @@
+{
+    "name": "chunk-includes",
+    "version": "0.0.1",
+    "description": "Shows what is going into each chunk",
+    "main": "src/index.js",
+    "author": "Behrang Yarahmadi <behrang.yarahmadi@trivago.com>",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/heroku/node-js-sample"
+    },
+    "license": "MIT"
+}
